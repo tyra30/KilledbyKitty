@@ -1,0 +1,72 @@
+body {
+  margin: 10;
+  border-style: solid;
+  border-color: black;
+  padding: 30px;
+}
+
+header {
+  background-color: black;
+  color: white;
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+  padding: 30px;
+}
+
+nav li {
+  list-style: none;
+  display: inline-table;
+  margin-right: 32px;
+}
+
+a {
+  color: rgb(167, 167, 167);
+  text-decoration: none;
+}
+
+#Ruta1 {
+  text-align: center;
+  align-self: center;
+  border: black;
+  border: solid;
+  margin-top: 50px;
+  margin-right: 10px;
+}
+
+#Ruta2 {
+  text-align: center;
+  align-self: center;
+  border: black;
+  border: solid;
+  margin-top: 50px;
+  margin-left: 10px;
+}
+
+#flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+footer {
+  text-align: center;
+}
+
+h4 {
+  font-family: "Oswald", sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Oswald", sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+li {
+  text-align: left;
+}
+
+#pumpaörhängen {
+  text-decoration: aliceblue;
+}
